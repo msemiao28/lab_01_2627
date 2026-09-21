@@ -31,13 +31,13 @@ Sometimes there will be areas for you to edit. These will have _marked_ text tha
 :::
 
 - [x] Check items off as you complete them.
-- [ ] Create your personal student repository by following the instructions at the link above.
-- [ ] Clone the repository, containing this file, to your local machine.
-- [ ] Open these instructions in Visual Studio Code or RStudio.
-- [ ] Fill out your name in the box below.
+- [x] Create your personal student repository by following the instructions at the link above.
+- [x] Clone the repository, containing this file, to your local machine.
+- [x] Open these instructions in Visual Studio Code or RStudio.
+- [x] Fill out your name in the box below.
 
 ::: {.callout-note}
-Hi, my name is [_fill out your name here_]{.mark}.
+Hi, my name is [Maria]{.mark}.
 :::
 
 - [ ] Knit the document to check that the output looks okay.
